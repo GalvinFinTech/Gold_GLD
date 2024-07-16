@@ -39,17 +39,14 @@ Historically, gold has been a significant form of investment globally, retained 
 - **Python Version:** Python 3.x.
 - **Dataset:** ETF data collected from [ETF.com/GLD](http:/www.etf.com/GLD).
 
-## Conclusion
-
-This project aims to demonstrate the application of Machine Learning, specifically Linear Regression, in predicting Gold ETF prices. By leveraging historical data and appropriate features, the model seeks to provide insights into future price trends, aiding investors in making informed decisions.
-
 ## Result
-
-### Output of Regression Model:
 
 The regression model outputs the predicted Gold ETF price based on the following equation:
 **Gold ETF Price (y)=1.17×5 Days Moving Average (x1)−0.17×10 Days Moving Average (x2)+0.22**
 
+## Conclusion
+
+This project aims to demonstrate the application of Machine Learning, specifically Linear Regression, in predicting Gold ETF prices. By leveraging historical data and appropriate features, the model seeks to provide insights into future price trends, aiding investors in making informed decisions.
 
 
 

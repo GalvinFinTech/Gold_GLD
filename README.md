@@ -44,7 +44,8 @@ Historically, gold has been a significant form of investment globally, retained 
 The regression model outputs the predicted Gold ETF price based on the following equation:
 **Gold ETF Price (y)=1.17×5 Days Moving Average (x1)−0.17×10 Days Moving Average (x2)+0.22**
 
-![ The graph above shows the expected and actual Gold ETF price.](main/Picture1.png)
+![The graph above shows the expected and actual Gold ETF price.](Picture1.png)
+
 
 
 ## Conclusion
